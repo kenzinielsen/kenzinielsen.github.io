@@ -1,0 +1,83 @@
+body {
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+header {
+    padding: 20px 80px;
+}
+header h1 {
+    font-family: sans-serif;
+    margin: 0;
+    margin-top: 20px;
+    padding-left: 30px;
+    font-size: 54px;
+    font-weight: 200;
+}
+header h3 {
+    padding-left: 30px;
+    font-size: 22px;
+    font-weight: lighter;
+}
+header nav ul {
+    font-size: 38px;
+    font-weight: lighter;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    list-style:none;
+    justify-content: space-evenly;
+}
+header nav ul li a {
+    font-size: 33px;
+    padding: 10px 25px;
+    font-weight: lighter;
+    text-decoration: none;
+    color: black;
+}
+header nav ul li a:hover {
+    color:blueviolet;
+}
+header nav ul li a:active {
+    color:gold;
+}
+.section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.section h2 {
+    font-size: 40px;
+    font-family: serif;
+    font-weight: lighter;
+}
+.section p img {
+    width: 150px;
+    height: 150px;
+}
+.section p img:hover {
+    color:blueviolet;
+    background-color: blueviolet;
+}
+#about-me {
+}
+
+#about-me p{
+    font-size: 26px;
+}
+#about-me img{
+    width: 250px;
+    height: 250px;
+}
+#contact {
+
+}
+#contact p {
+    font-size: 40px;
+}
+footer {
+    font-size: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: flex-end;
+    font-weight: lighter;
+}
