@@ -138,7 +138,6 @@ section {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-
 }
 footer {
     font-size: 12px;
@@ -205,5 +204,4 @@ footer {
     #projects p {
         text-align: center;
     }
-
 };
