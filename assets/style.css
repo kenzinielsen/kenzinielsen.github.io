@@ -189,9 +189,6 @@ footer {
         flex-wrap: wrap;
         justify-content: center;
     }
-    header nav ul li a {
-        
-    }
     #projects div a {
         display:flex;
         flex-direction: column;
