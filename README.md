@@ -8,7 +8,7 @@ A website that showcases Kenzi's projects and information about her.
 * CSS
 
 ## Website
-https://kenzinielsen1.github.io/
+https://kenzinielsen.github.io/
 
 ## Contribution
 Made with ❤️ by Kenzi Nielsen
